@@ -31,5 +31,6 @@ In this section, descriptive statistics and data visualization techniques will b
 1. Conservation status of species
 1. Observations of species in parks 
 
-![protected_per_species](https://user-images.githubusercontent.com/71391244/126174501-b245c762-0995-4a7d-b75d-d92cb093d0ee.jpg)
+![protected_per_species](https://user-images.githubusercontent.com/71391244/126174710-e5468c0e-f53c-440e-8516-d18483a718f8.jpg)
+
 
