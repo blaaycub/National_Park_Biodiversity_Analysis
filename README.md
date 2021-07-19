@@ -5,40 +5,27 @@
 A data analysis on the conservation of endangered National Park species to try to identify patterns or themes in how these species become endangered.
 
 
+### **Project Goals:**
 
-Results Summary
-=======================
-* There is a linear assocation of .343 between GDP and Life Expectancy. Generally, a correlation larger than about .3 indicates a linear association. A correlation greater than about .6 suggestions a strong linear association.
+The perspective of this project will be of a biodiversity analyst for the National Park Service. Their employer, the National Park Service, wants to ensure the survival of at-risk species in order to maintain the level of existing biodiversity within their parks. The main objectives of this analyst will be to gain an understanding of characteristcs about the species and their conservation statuses, and those species and their relationship to the national parks. 
 
-**Additional Findings:**
+* **Questions to gain insight**
+    * What is the distribution of conservation status for animals?
+    * Are certain types of species more likely to be endangered?
+    * Are the differences between species and their conservation status significant?
+    * Which species were spotted the most at each park?
 
-* The United States of America's GDP was 75.73% larger in 2015, relative to what it was in 2000.
+### Data
 
-* China's GDP was 813.42% larger in 2015, relative to what it was in 2000.
-
-* The entire dataset has life expectancy median of 76.65 and a mean GDP of 3,880,498,570,768.39
-
-* Between 2000 and 2015, Zimbabwe's life expectancy rate increased by: 31.96%, while the country's GDP was 143.72% larger in 2015, relative to what it was in 2000.
-
-* Between 2000 and 2015, life expectancies in The United States of America, Mexico, Germany, China, and Chile increased at a combined average rate of: 4.38%.
-
-Process
-=======================
+This project has two data sets that came with the package. The first csv file has information about each species and another has observations of species with park locations. This data will be used to analyze the goals of the project. Note: The data for this project is *inspired* by real data, but is mostly fictional. Both Observations.csv and Species_info.csv was provided by [Codecademy.com](https://www.codecademy.com).
 
 
-**Exploratory Data Analysis (EDA)**
- * Establish the question(s) we are trying to solve
- * What kind of data do we have? What types of visualizations suit our types?
- * What's missing from the data? (if anything)
- * Where are the outliers?
- * How can we add, change or remove features to get more out of the data?
+### Analysis
 
-**Questions Formulated From EDA**
+In this section, descriptive statistics and data visualization techniques will be employed to understand the data better. Statistical inference will also be used to test if the observed values are statistically significant. Some of the key metrics that will be computed include: 
 
- * Has life expectancy increased over time in the six nations?
- * Has GDP increased over time in the six nations?
- * What is the average life expectancy in these nations?
- * Is there a correlation between GDP and life expectancy of a country?
-
-![GDP_All_Over_Time](https://user-images.githubusercontent.com/71391244/126052540-14b8d61d-faf8-490d-ac2b-8277e7ed6d04.png)
-![Life_Expectancy_All_Over_Time](https://user-images.githubusercontent.com/71391244/126052543-532d1498-97d9-4f8e-ad9d-5527df3d4635.png)
+1. Distributions
+1. Counts
+1. Relationship between species
+1. Conservation status of species
+1. Cbservations of species in parks 
