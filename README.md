@@ -1,3 +1,4 @@
+
 # National_Park_Biodiversity_Analysis
 
 **Project Overview**
@@ -28,4 +29,6 @@ In this section, descriptive statistics and data visualization techniques will b
 1. Counts
 1. Relationship between species
 1. Conservation status of species
-1. Cbservations of species in parks 
+1. Observations of species in parks 
+
+![Uploading protected_per_species.jpg…]()
