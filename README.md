@@ -31,6 +31,15 @@ In this section, descriptive statistics and data visualization techniques will b
 1. Conservation status of species
 1. Observations of species in parks 
 
+### Findings
+* What is the distribution of conservation status for species?
+    - The vast majority of species were not part of conservation.(5,633 vs 191)
+* Are certain types of species more likely to be endangered?
+    - Mammals and Birds had the highest percentage of being in protection: 17% and 15.4% respectively.
+* Are the differences between species and their conservation status significant?
+    - While Mammals and Birds did not have significant difference in conservation percentage, mammals and reptiles exhibited a statistically significant difference.
+* Which animal is most prevalent and what is their distribution amongst parks?
+    - The study found that bats occurred the most number of times and they were most likely to be found in Yellowstone National Park.
 ![protected_per_species](https://user-images.githubusercontent.com/71391244/126174710-e5468c0e-f53c-440e-8516-d18483a718f8.jpg)
 
 
